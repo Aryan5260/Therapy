@@ -1,0 +1,4 @@
+medsafe_env/
+__pycache__/
+*.pyc
+.env
