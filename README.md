@@ -1,4 +1,4 @@
-# 🏥 MedSafe AI — AI-Driven Medical Safety Assistant
+# 🏥 Therapy — AI-Driven Medical Safety Assistant
 
 An AI-powered medical safety assistant that helps users analyze symptoms, check medication safety, and get AI-generated health guidance using Google Gemini.
 
