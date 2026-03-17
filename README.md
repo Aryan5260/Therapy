@@ -34,8 +34,8 @@ MedSafe-AI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RishitaPandey2327/MedSafe-AI.git
-cd MedSafe-AI
+git clone https://github.com/Aryan5260/Therapy.git
+cd Therapy
 ```
 
 ### 2. Install Dependencies
@@ -113,11 +113,5 @@ streamlit_app.py → UI Output (risk badge, recommendations, warnings)
 MedSafe AI is for **educational and informational purposes only**. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.
 
 ---
-
-## 👥 Contributors
-
-- Radhika Saxena (Radhika2811055)
-- Rishita Pandey(RishitaPandey2327)
-- Team Members
 
 **Milestone 4 — Activity 4.3: Deployment Preparation and Final Validation**
